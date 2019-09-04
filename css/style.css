@@ -654,3 +654,18 @@ p a:hover {
 	color:#4b4b4b;
 	text-decoration:none
 }
+
+.thumbnail_about {
+	 width: 230px;
+	 height: 215px;
+}
+
+.about_main {
+	width: 960px;
+	height: 450px;
+	border-radius: 40px;
+}
+
+
+
+{}
